@@ -1,0 +1,6 @@
+Name: Jadesola Kuti
+Matric Number: 22CD032158
+Machine Learning Algorithm Used: Random Forest Regressor
+Model persistence method used: Joblib
+Live URL of the hosted application: https://your-app-name.onrender.com
+GitHub repository link: https://github.com/jadesolakuti/HousePrice-Project-model
